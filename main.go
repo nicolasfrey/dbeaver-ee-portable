@@ -20,7 +20,7 @@ func init() {
 	var err error
 
 	// Init app
-	if app, err = portapps.New("dbeaver-portable", "DBeaver"); err != nil {
+	if app, err = portapps.New("dbeaver-ee-portable", "DBeaver"); err != nil {
 		log.Fatal().Err(err).Msg("Cannot initialize application. See log file for more info.")
 	}
 }
