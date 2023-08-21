@@ -1,5 +1,9 @@
 # Changelog
 
+## 23.1.5-6 (2023/08/21)
+
+* Update to DBeaver EE 23.1.5
+ 
 ## 23.1.0-5 (2023/07/11)
 
 * Update to DBeaver EE 23.1.0
