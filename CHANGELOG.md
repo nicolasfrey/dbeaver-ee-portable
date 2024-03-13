@@ -1,5 +1,9 @@
 # Changelog
 
+## 24.0.0-11 (2024/01/24)
+
+* Update to DBeaver EE 24.0.0
+
 ## 23.3.0-8 (2024/01/24)
 
 * Update to DBeaver EE 23.3.0
